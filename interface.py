@@ -3,7 +3,6 @@
 
 '''
 Tensorflow implementation for MobileFaceNet.
-Author: aiboy.wei@outlook.com .
 '''
 
 import nets.TinyMobileFaceNet as TinyMobileFaceNet

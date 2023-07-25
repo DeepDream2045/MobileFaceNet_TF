@@ -3,7 +3,6 @@
 
 '''
 Tensorflow implementation for MobileFaceNet.
-Author: aiboy.wei@outlook.com .
 '''
 
 from tensorflow.python.tools import freeze_graph
@@ -12,7 +11,7 @@ from nets.TinyMobileFaceNet import inference
 from verification import evaluate
 from scipy.optimize import brentq
 from scipy import interpolate
-from sklearn import metrics
+from sklearn import metrics 
 import tensorflow as tf
 import numpy as np
 import argparse

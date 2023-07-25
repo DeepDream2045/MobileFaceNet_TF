@@ -3,7 +3,6 @@
 
 '''
 Tensorflow implementation for MobileFaceNet.
-Author: aiboy.wei@outlook.com .
 '''
 
 from utils.data_process import load_data

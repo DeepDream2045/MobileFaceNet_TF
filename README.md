@@ -7,7 +7,7 @@ Tensorflow implementation for [MobileFaceNet](https://arxiv.org/abs/1804.07573) 
 - tensorflow >= r1.2 (support cuda 8.0, original needs tensorflow >= r1.5 and cuda 9.0)
 - opencv-python
 - python 3.x ( if you want to use python 2.x, somewhere in load_data function need to change, see details in comment)
-- mxnet
+- mxnet 
 - anaconda (recommend)
 
 ## Construction
